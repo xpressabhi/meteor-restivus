@@ -8,7 +8,7 @@ Package.describe({
 
 Package.onUse(function (api) {
   // Minimum Meteor version
-  api.versionsFrom('METEOR@0.9.0');
+  api.versionsFrom('2.3');
 
   // Meteor dependencies
   api.use('check');
